@@ -1,1 +1,1 @@
-# Arabic Sentiment Analysis and Text Classification (Using CNN_LSTM)
+# Arabic Sentiment Analysis and Text Classification (Using Fusion CNN_LSTM)
